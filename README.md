@@ -7,7 +7,7 @@
 A curated list of ML for Systems and related areas. :-)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (chihung.chan@outlook.com) to add links.
+Please feel free to send me [pull requests](https://github.com/asvskartheek/awesome-ml-for-systems/pulls) or email (sukruthkartheek@gmail.com) to add links.
 Markdown format:
 ```markdown
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
